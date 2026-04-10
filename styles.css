@@ -23,11 +23,14 @@ a{
 .menu {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .menu ul {
     display: flex;
     flex-direction: row;
     gap: 10px;
+    background-color: #000000;
+    padding: 10px;
 }
 
