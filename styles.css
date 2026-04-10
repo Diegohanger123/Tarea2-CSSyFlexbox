@@ -33,3 +33,14 @@ a{
     gap: 50px;
 }
 
+
+/* Interaccion Visual */
+.menu ul li a {
+    padding-bottom: 5px;
+    background-color: #ffffff;
+}
+
+.menu ul li a:hover {
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
